@@ -18,5 +18,5 @@ A simple shell script to compile C programs. It allows you to compile `.c` sourc
 
 ```bash
 ./compile.sh <source_file.c> [library_flags]
-./compile.sh hello.c
+
 
